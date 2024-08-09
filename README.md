@@ -10,4 +10,4 @@ In this script, only first 50 lines of the subtitle file will be processed. You 
 python subtitle_processor.py -d /path/to/directory text_pattern1 text_pattern2 ... 
 ```
 
-Make sure `ffmpeg` is installed in you system.
+Make sure `ffmpeg` is installed on you system.
